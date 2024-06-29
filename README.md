@@ -93,7 +93,6 @@ The subsequent pages list the details for each hotel:
 The Google Maps URL links to a Google Maps page between the `geographic_goto_address` and the hotel address.  The Normal URL links to the hotel's page on Hotwire, and the Hotrate URL links to the "disguised" hotel page, where you can claim the deal.
 
 ## Miscellaneous
-- A specific version of Google Chrome and Chromedriver are included in this repo.
 - The code is not perfect:  
   - If Hotwire changes it's webpage, the code will need to be updated.
   - I've discovered some much better Selenium practices since I wrote this code two years ago.
