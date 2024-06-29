@@ -1,7 +1,7 @@
 This project decodes which specific hotels are on sale on Hotwire, and organizes the results in a pdf.
 
 ## Results
-See below pages of a final report with decoded hotel listings, links, etc:
+See below pages of a [final report](https://github.com/scoliann/HackingHotwire/blob/master/reports/vacation_to_LA_(2024.06.29_to_2024.06.30).pdf) with decoded hotel listings, links, etc:
 
 <!-- Final Report -->
 <p align="center">
