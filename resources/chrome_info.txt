@@ -1,0 +1,8 @@
+Source of Chrome version 98:
+
+https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win/948375/
+
+
+How do download old Chrome versions:
+
+https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site

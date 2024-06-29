@@ -1,0 +1,12 @@
+
+
+To get and setup chromedriver:
+	Go to:		https://chromedriver.storage.googleapis.com/index.html?path=98.0.4758.80/
+	Download:	chromedriver_win32.zip to "browser" directory
+	Unzpip chromedriver_win32.zip
+
+
+TO get and setup chrome:
+	Go to:		https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win/948375/
+	Download:	chrome-win.zip to "browser" directory
+	Unzip chrome-win.zip
