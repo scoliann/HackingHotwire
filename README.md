@@ -5,10 +5,10 @@ See below pages of a final report with decoded hotel listings, links, etc:
 
 <!-- Final Report -->
 <p align="center">
-  <img src="./misc/page_1.png" width="100" />
-  <img src="./misc/page_2.png" width="100" />
-  <img src="./misc/page_3.png" width="100" />
-  <img src="./misc/page_4.png" width="100" />
+  <img src="./misc/page_1.PNG" width="100" />
+  <img src="./misc/page_2.PNG" width="100" />
+  <img src="./misc/page_3.PNG" width="100" />
+  <img src="./misc/page_4.PNG" width="100" />
 </p>
 
 ## Inspiration
