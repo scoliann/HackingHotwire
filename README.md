@@ -5,10 +5,10 @@ See below pages of a final report with decoded hotel listings, links, etc:
 
 <!-- Final Report -->
 <p align="center">
-  <img src="./misc/page_1.PNG" width="150" />
-  <img src="./misc/page_2.PNG" width="150" />
-  <img src="./misc/page_3.PNG" width="150" />
-  <img src="./misc/page_4.PNG" width="150" />
+  <img src="./misc/page_1.PNG" width="200" />
+  <img src="./misc/page_2.PNG" width="200" />
+  <img src="./misc/page_3.PNG" width="200" />
+  <img src="./misc/page_4.PNG" width="200" />
 </p>
 
 ## Inspiration
@@ -82,12 +82,12 @@ The output of running the program is a nice PDF report of the hotel deals that m
 The cover page lists Hotwire Query Details and User Filter Details:
 <!-- Final Report -->
 <p align="center">
-  <img src="./misc/page_1.PNG" width="300" />
+  <img src="./misc/page_1.PNG" width="400" />
 </p>
 
 The subsequent pages list the details for each hotel:
 <p align="center">
-  <img src="./misc/page_2.PNG" width="300" />
+  <img src="./misc/page_2.PNG" width="400" />
 </p>
 
 The Google Maps URL links to a Google Maps page between the `geographic_goto_address` and the hotel address.  The Normal URL links to the hotel's page on Hotwire, and the Hotrate URL links to the "disguised" hotel page, where you can claim the deal.
