@@ -15,7 +15,7 @@ See below pages of a [final report](https://github.com/scoliann/HackingHotwire/b
 While looking up "travel hacking" tips, I came across a YouTube video in which a young vlogger demonstrated how they get good hotel deals on Hotwire.  Essentially, by comparing listed metrics and attributes of the unknown and known hotels, it is possible to find ones that are perfect, or near perfect, matches.  This proect automates the process and produces a handy pdf report with all relevant data, links, etc.
 
 ## Demo / Use
-A brief video outlining the code, setup, and demonstrating a run can be found [here](www.youtube.com)!
+A brief video outlining the code, setup, and demonstrating a run can be found [here](https://youtu.be/zs6pJn7HzG8)!
 
 This code has been used to find hotel deals on two different family vacations!  
 

@@ -1,6 +1,8 @@
 # Ignore directories
 chromedriver_win32/
 Win_948375_chrome-win/
+video_demo/
+__pycache__/
 
 # Ignore specific zip files
 chromedriver_win32.zip
