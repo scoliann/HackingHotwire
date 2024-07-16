@@ -22,7 +22,7 @@ This code has been used to find hotel deals on two different family vacations!
 ## Setup
 1.  Create and activate conda environment via:
 ```
-    conda env create -f environment.yaml
+    conda env create -f environment.yml
     conda activate env_hacking_hotwire
 ```
 
